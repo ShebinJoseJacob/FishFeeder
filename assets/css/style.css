@@ -458,7 +458,7 @@ html {
 
     #snapButton{
         justify-self: center;
-        margin-left: 5rem;
+        margin-left: 0rem;
         margin-top: 2rem;
     }
     /*  CLOCK  */
